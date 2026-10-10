@@ -19,4 +19,3 @@ always_ff @ (posedge clk, posedge rst)
 
 assign data_out = sreg;
 endmodule 
-
